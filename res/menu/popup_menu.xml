@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 定义一组单选菜单项 -->
+    <group android:checkableBehavior="single" >
+
+        <!-- 定义三个菜单项 -->
+        <item
+            android:id="@+id/dec2bin"
+            android:title="@string/dec2bin">
+        </item>
+        <item
+            android:id="@+id/dec2hex"
+            android:title="@string/dec2hex">
+        </item>
+    </group>
+
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="btnColor">#ffffff</color>
+    <color name="btnPressColor">#cfcfcf</color>
+    <color name="btn_text_color">#000000</color>
+    
+    <color name="pad_numeric_background_color">#ff434343</color>
+
+</resources>
