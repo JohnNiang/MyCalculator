@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		requestWindowFeature(Window.FEATURE_NO_TITLE);
+		// requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.activity_main);
 		LinearLayout linear_layout = (LinearLayout) findViewById(R.id.linear_layout);
 		new MyLinearLayout(this, linear_layout);
